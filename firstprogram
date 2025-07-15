@@ -1,0 +1,17 @@
+#include <iostream>
+using namespace std;
+// Name - Bhumika Ulangwar
+// PRN - 24070123030
+// Batch - E&TC - A1
+
+#include <iostream>
+using namespace std;
+
+int main() {
+    cout << "hello!"<<endl;
+    cout << "First Program"<<endl;
+    return 0;
+}
+//output
+hello!
+First Program
